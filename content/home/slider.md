@@ -10,7 +10,7 @@ weight = 1  # Order that this section will appear.
 interval = false
 
 # Slide height (optional).
-# E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
+# E.g. `1000px` for 500 pixels or `calc(100vh - 70px)` for full screen.
 height = "500px"
 
 # Slides.
