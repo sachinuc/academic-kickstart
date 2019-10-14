@@ -1,7 +1,9 @@
 ---
 title: "My Article Name"
-date: 2019-10-14T07:40:14+05:30
-draft: true
+date: 2019-10-14
+math: true
+diagram: true
+markup: mmark
 ---
 
 # This is my custom content
