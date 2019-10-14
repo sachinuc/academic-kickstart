@@ -33,4 +33,4 @@ markup: mmark
 
   This fact 
 
-  [^1]: kjaslkdjlkjlakjsd is known.
+  [^1]: kjaslkdjlkjlakjsd
