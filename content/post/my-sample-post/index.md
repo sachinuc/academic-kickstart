@@ -30,7 +30,5 @@ markup: mmark
 - [ ] sdfsdf
 
   
-
-  This fact 
-
-  [^1]: kjaslkdjlkjlakjsd
+I have more [^1] to say.
+[^1]: Footnote example.
